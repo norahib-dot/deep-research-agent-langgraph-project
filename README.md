@@ -32,7 +32,7 @@ uv run jupyter lab research_agent.ipynb
    Never commit your `.env` file — it holds your API key (it is already in `.gitignore`).
 4. **Tag the academy** so we can find your submission: edit the bottom of your fork's `README.md`, add this line, then commit and push again:
    ```markdown
-   Submitted by: <your name> — academy: @SDAIAAcademy
+   Submitted by: <Norah ALShahrani> — academy: @SDAIAAcademy
    ```
 5. Your submission is complete when your fork's last commit contains your finished `research_agent.ipynb` and the README line above. Grading follows `EVALUATION.md`.
 
